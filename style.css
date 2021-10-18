@@ -1,0 +1,19 @@
+.wrapper{
+    padding-top: 20px;
+    margin: 0 auto;
+    width: 1040px;
+}
+.item_upgrate{
+    list-style-type: none;
+}
+.game{
+    display: none;
+    justify-content: space-between;
+}
+.endgame{
+    display: none;
+}
+.score{
+    font-size:14px;
+}
+
